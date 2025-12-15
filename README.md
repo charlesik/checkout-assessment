@@ -1,4 +1,4 @@
-# Crypto Checkout Experience
+# Crypto Checkout Screens
 
 A modern, user-friendly crypto payment checkout interface built with Next.js 16 and React 19. This project provides a seamless experience for converting crypto to cash and sending cryptocurrency payments.
 
