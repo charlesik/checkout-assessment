@@ -1,4 +1,4 @@
-# Crypto Checkout Experience
+# Crypto Checkout Screens
 
 A modern, user-friendly crypto payment checkout interface built with Next.js 16 and React 19. This project provides a seamless experience for converting crypto to cash and sending cryptocurrency payments.
 
@@ -31,20 +31,17 @@ A modern, user-friendly crypto payment checkout interface built with Next.js 16 
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone <repository-url>
-cd crypto-checkout-experience
-\`\`\`
+
 
 2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
+
+pnpm install
+
 
 3. Run the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
+
+pnpm run dev
+
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
@@ -90,10 +87,4 @@ The project uses a cohesive design system with:
 - **Components**: Custom dropdowns, input fields, and buttons
 - **Dark Mode Ready**: Design tokens support theme switching
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
