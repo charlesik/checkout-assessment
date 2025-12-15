@@ -1,0 +1,5 @@
+{
+  "/crypto-to-cash/page": "app/crypto-to-cash/page.js",
+  "/page": "app/page.js",
+  "/send-eth/page": "app/send-eth/page.js"
+}

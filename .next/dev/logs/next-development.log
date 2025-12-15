@@ -1,0 +1,1082 @@
+[00:00:03.904] Server  LOG     
+[00:00:03.907] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:03.909] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:03.909] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:03.910] Server  LOG     
+[00:00:03.911] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:03.913] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:03.914] Server  LOG     
+[00:00:04.417] Server  LOG      ✓ Ready in 2.1s
+[00:05:05.092] Server  LOG      ○ Compiling / ...
+[00:05:17.883] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:17.898] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:17.922] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:17.938] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:20.555] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:20.559] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:20.563] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:20.569] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:20.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:33.058] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:33.072] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:33.075] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:05:33.081] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:05:39.057] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:12:47.106] Server  LOG      ✓ Compiled in 570ms
+[00:12:59.400] Server  LOG      ✓ Compiled in 375ms
+[00:22:21.732] Server  LOG      ✓ Compiled in 444ms
+[00:23:02.951] Server  LOG      ✓ Compiled in 543ms
+[00:24:29.694] Server  LOG      ✓ Compiled in 1227ms
+[00:24:39.649] Server  LOG      ✓ Compiled in 278ms
+[00:25:17.908] Server  LOG      ✓ Compiled in 692ms
+[00:25:25.518] Server  LOG      ✓ Compiled in 400ms
+[00:25:51.869] Server  LOG      ✓ Compiled in 491ms
+[00:26:01.236] Server  LOG      ✓ Compiled in 343ms
+[00:26:40.312] Server  LOG      ✓ Compiled in 258ms
+[00:26:50.060] Server  LOG      ✓ Compiled in 318ms
+[00:26:56.546] Server  LOG      ✓ Compiled in 256ms
+[00:27:04.891] Server  LOG      ✓ Compiled in 320ms
+[00:28:17.334] Server  LOG      ✓ Compiled in 338ms
+[00:29:20.735] Server  LOG      ✓ Compiled in 378ms
+[00:29:31.256] Server  LOG      ✓ Compiled in 324ms
+[00:33:00.327] Server  LOG      ✓ Compiled in 373ms
+[00:33:18.164] Server  LOG      ✓ Compiled in 314ms
+[00:33:41.111] Server  LOG      ✓ Compiled in 539ms
+[00:33:50.548] Server  LOG      ✓ Compiled in 423ms
+[00:34:11.648] Server  LOG      ✓ Compiled in 413ms
+[00:36:35.537] Server  LOG      ✓ Compiled in 490ms
+[00:37:04.681] Server  LOG      ✓ Compiled in 1132ms
+[00:37:17.364] Server  LOG      ✓ Compiled in 752ms
+[00:37:57.324] Server  LOG      ✓ Compiled in 286ms
+[00:38:07.731] Server  LOG      ✓ Compiled in 310ms
+[00:38:18.547] Server  LOG      ✓ Compiled in 232ms
+[00:38:26.794] Server  LOG      ✓ Compiled in 461ms
+[00:38:34.163] Server  LOG      ✓ Compiled in 574ms
+[00:39:03.674] Server  LOG      ✓ Compiled in 531ms
+[00:39:21.692] Server  LOG      ✓ Compiled in 479ms
+[00:39:31.790] Server  LOG      ✓ Compiled in 249ms
+[00:39:53.025] Server  LOG      ✓ Compiled in 285ms
+[00:40:00.185] Server  LOG      ✓ Compiled in 403ms
+[00:40:20.605] Server  LOG      ✓ Compiled in 286ms
+[00:40:28.499] Server  LOG      ✓ Compiled in 238ms
+[00:41:05.324] Server  LOG      ✓ Compiled in 505ms
+[00:41:15.044] Server  LOG      ✓ Compiled in 238ms
+[00:41:32.032] Server  LOG      ✓ Compiled in 306ms
+[00:42:01.884] Server  LOG      ✓ Compiled in 379ms
+[00:42:09.262] Server  LOG      ✓ Compiled in 340ms
+[00:46:23.268] Server  LOG      ✓ Compiled in 194ms
+[00:46:33.307] Server  LOG      ✓ Compiled in 248ms
+[00:46:41.276] Server  LOG      ✓ Compiled in 474ms
+[00:46:46.761] Server  LOG      ✓ Compiled in 175ms
+[00:47:03.295] Server  LOG      ✓ Compiled in 266ms
+[00:47:49.547] Server  LOG      ✓ Compiled in 443ms
+[00:47:57.162] Server  LOG      ✓ Compiled in 262ms
+[00:47:59.414] Server  LOG      ✓ Compiled in 281ms
+[00:48:18.066] Server  LOG      ✓ Compiled in 210ms
+[00:49:30.375] Server  LOG      ✓ Compiled in 282ms
+[00:49:40.697] Server  LOG      ✓ Compiled in 722ms
+[00:50:12.527] Server  LOG      ✓ Compiled in 246ms
+[00:50:44.605] Server  LOG      ✓ Compiled in 301ms
+[00:50:47.432] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.433] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:47.790] Browser ERROR   ./app/crypto-to-cash/page.tsx:114:60
+Parsing ecmascript source code failed
+  112 |             {/* Continue button */}
+  113 |             <Button size="lg" className="w-full h-14 rounded-xl text-base font-semibold mt-6">
+> 114 |               Convert new Promise<void>((resolve, reject) => {
+      |                                                            ^
+  115 |                 
+  116 |               })
+  117 |             </Button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/crypto-to-cash/page.tsx [Client Component Browser]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/crypto-to-cash/page.tsx [Client Component SSR]
+    ./app/crypto-to-cash/page.tsx [Server Component]
+[00:50:48.058] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:50:48.063] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:50:48.065] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[00:50:48.067] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[00:52:39.925] Server  LOG      ✓ Compiled in 471ms
+[00:53:15.206] Server  LOG      ✓ Compiled in 388ms
+[00:53:33.203] Server  LOG      ✓ Compiled in 383ms
+[00:53:48.976] Server  LOG      ✓ Compiled in 415ms
+[00:54:47.829] Server  LOG      ✓ Compiled in 239ms
+[00:55:06.581] Server  LOG      ✓ Compiled in 299ms
+[00:55:25.710] Server  LOG      ✓ Compiled in 404ms
+[01:05:37.514] Server  LOG      ✓ Compiled in 313ms
+[01:06:20.840] Server  LOG      ✓ Compiled in 385ms
+[01:06:45.113] Server  LOG      ✓ Compiled in 361ms
+[01:06:58.323] Server  LOG      ✓ Compiled in 445ms
+[01:07:35.861] Server  LOG      ✓ Compiled in 340ms
+[01:08:04.841] Server  LOG      ✓ Compiled in 298ms
+[01:08:44.608] Server  LOG      ✓ Compiled in 408ms
+[01:08:55.612] Server  LOG      ✓ Compiled in 306ms
+[01:09:08.218] Server  LOG      ✓ Compiled in 204ms
+[01:09:13.661] Server  LOG      ✓ Compiled in 458ms
+[01:09:29.350] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:09:29.365] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:09:29.378] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:09:29.389] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:12:01.066] Server  LOG      ✓ Compiled in 640ms
+[01:12:09.835] Server  LOG      ✓ Compiled in 325ms
+[01:12:30.816] Server  LOG      ✓ Compiled in 397ms
+[01:12:47.208] Server  LOG      ✓ Compiled in 365ms
+[01:13:06.908] Server  LOG      ✓ Compiled in 347ms
+[01:14:08.608] Server  LOG      ✓ Compiled in 1104ms
+[01:14:27.033] Server  LOG      ✓ Compiled in 340ms
+[01:14:36.872] Server  LOG      ✓ Compiled in 296ms
+[01:15:07.747] Server  LOG      ✓ Compiled in 666ms
+[01:15:24.756] Server  LOG      ✓ Compiled in 276ms
+[01:15:55.855] Server  LOG      ✓ Compiled in 339ms
+[01:16:06.795] Server  LOG      ✓ Compiled in 422ms
+[01:16:30.715] Server  LOG      ✓ Compiled in 569ms
+[01:16:47.910] Server  LOG      ✓ Compiled in 347ms
+[01:17:11.614] Server  LOG      ✓ Compiled in 459ms
+[01:17:25.387] Server  LOG      ✓ Compiled in 328ms
+[01:17:44.355] Server  LOG      ✓ Compiled in 472ms
+[01:18:00.194] Server  LOG      ✓ Compiled in 262ms
+[01:18:04.409] Server  LOG      ✓ Compiled in 351ms
+[01:18:12.895] Server  LOG      ✓ Compiled in 309ms
+[01:18:32.148] Server  LOG      ✓ Compiled in 350ms
+[01:18:43.541] Server  LOG      ✓ Compiled in 304ms
+[01:19:28.120] Server  LOG      ✓ Compiled in 297ms
+[01:19:36.061] Server  LOG      ✓ Compiled in 335ms
+[01:20:00.161] Server  LOG      ✓ Compiled in 489ms
+[01:20:13.521] Server  LOG      ✓ Compiled in 278ms
+[01:20:25.559] Server  LOG      ✓ Compiled in 276ms
+[01:20:37.438] Server  LOG      ✓ Compiled in 319ms
+[01:20:46.811] Server  LOG      ✓ Compiled in 296ms
+[01:21:21.976] Server  LOG      ✓ Compiled in 366ms
+[01:21:29.154] Server  LOG      ✓ Compiled in 308ms
+[01:21:52.267] Server  LOG      ✓ Compiled in 382ms
+[01:21:54.754] Server  LOG      ✓ Compiled in 328ms
+[01:22:07.053] Server  LOG      ✓ Compiled in 361ms
+[01:23:12.158] Server  LOG      ✓ Compiled in 273ms
+[01:23:53.740] Server  LOG      ✓ Compiled in 466ms
+[01:23:59.994] Server  LOG      ✓ Compiled in 360ms
+[01:24:19.764] Server  LOG      ✓ Compiled in 239ms
+[01:25:25.341] Server  LOG      ✓ Compiled in 735ms
+[01:25:45.129] Server  LOG      ✓ Compiled in 395ms
+[01:26:05.853] Server  LOG      ✓ Compiled in 349ms
+[01:26:13.518] Server  LOG      ✓ Compiled in 311ms
+[01:26:27.440] Server  LOG      ✓ Compiled in 307ms
+[01:28:37.679] Server  LOG      ✓ Compiled in 535ms
+[01:28:49.665] Server  LOG      ✓ Compiled in 687ms
+[01:29:24.939] Server  LOG      ✓ Compiled in 531ms
+[01:29:59.328] Server  LOG      ✓ Compiled in 342ms
+[01:30:08.563] Server  LOG      ✓ Compiled in 393ms
+[01:30:24.784] Server  LOG      ✓ Compiled in 691ms
+[01:31:09.298] Server  LOG      ✓ Compiled in 500ms
+[01:31:21.749] Server  LOG      ✓ Compiled in 257ms
+[01:32:21.435] Server  LOG      ✓ Compiled in 269ms
+[01:32:25.040] Server  LOG      ✓ Compiled in 486ms
+[01:32:39.266] Server  LOG      ✓ Compiled in 409ms
+[01:34:02.484] Server  LOG      ✓ Compiled in 712ms
+[01:34:09.907] Server  LOG      ✓ Compiled in 280ms
+[01:34:50.841] Server  LOG      ✓ Compiled in 437ms
+[01:34:59.791] Server  LOG      ✓ Compiled in 343ms
+[01:35:03.933] Server  LOG      ✓ Compiled in 334ms
+[01:35:08.580] Server  LOG      ✓ Compiled in 1061ms
+[01:35:52.105] Server  LOG      ✓ Compiled in 597ms
+[01:36:07.711] Server  LOG      ✓ Compiled in 243ms
+[01:36:35.238] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:36:35.241] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:36:35.243] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:36:35.246] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:36:38.130] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:36:38.132] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:36:38.133] Server  WARN     ⚠ [next]/internal/font/google/geist_a7695b8e.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_a7695b8e.module.css
+    [next]/internal/font/google/geist_a7695b8e.js
+    ./app/layout.tsx
+
+
+[01:36:38.137] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_354fc78.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_354fc78.module.css
+    [next]/internal/font/google/geist_mono_354fc78.js
+    ./app/layout.tsx
+
+
+[01:44:11.213] Server  LOG      ✓ Compiled in 564ms
+[01:45:18.303] Server  LOG      ✓ Compiled in 377ms
+[01:46:03.264] Server  LOG      ✓ Compiled in 294ms
+[01:48:18.523] Server  LOG      ✓ Compiled in 507ms
+[01:48:33.453] Server  LOG      ✓ Compiled in 302ms
+[01:49:47.991] Server  LOG      ✓ Compiled in 410ms
